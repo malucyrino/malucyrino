@@ -28,7 +28,7 @@ Você pode acessar a versão online e interativa do meu portfólio diretamente a
 
 **[Link para o seu Portfólio Online Aqui](https://malucyrino.github.io/portfolio/)**
 
----## Hi there 👋
+---
 
 <!--
 **malucyrino/malucyrino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

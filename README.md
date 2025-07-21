@@ -26,7 +26,7 @@ Este repositório contém o código-fonte do meu site de portfólio pessoal. Ele
 
 Você pode acessar a versão online e interativa do meu portfólio diretamente através do GitHub Pages:
 
-**(https://malucyrino.github.io/portfolio/)**
+**https://malucyrino.github.io/portfolio/**
 
 ---
 ### ✉️ Contato

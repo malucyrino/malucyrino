@@ -29,6 +29,12 @@ Você pode acessar a versão online e interativa do meu portfólio diretamente a
 **[Link para o seu Portfólio Online Aqui](https://malucyrino.github.io/portfolio/)**
 
 ---
+### ✉️ Contato
+
+Sinta-se à vontade para entrar em contato comigo!
+
+* **LinkedIn:** https://www.linkedin.com/in/malucyrino/
+* **Email:** [malucgleandro14@gmail.com](mailto:malucgleandro14@gmail.com)
 
 <!--
 **malucyrino/malucyrino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
